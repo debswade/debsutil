@@ -1,0 +1,7 @@
+README.rst
+setup.py
+debsutil/__init__.py
+debsutil.egg-info/PKG-INFO
+debsutil.egg-info/SOURCES.txt
+debsutil.egg-info/dependency_links.txt
+debsutil.egg-info/top_level.txt
